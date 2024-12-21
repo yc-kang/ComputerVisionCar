@@ -1,5 +1,10 @@
 # Computer Vision Car
 
+Introduction to Electronic Systems @ Fudan University  
+电子系统导论 @ 复旦大学  
+  
+Course Code: INFO120011   
+
 ## System Architecture
 Raspberry Pi based Car
 <div style="vertical-align:middle"><img src="images/System.png" alt="Dataset" width="650px" text-align="center">
